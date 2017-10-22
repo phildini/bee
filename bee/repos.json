@@ -1,0 +1,77 @@
+{
+    "batavia": {
+        "default_branch": "master"
+    },
+    "toga": {
+        "default_branch": "master"
+    },
+    "voc": {
+        "default_branch": "master"
+    },
+    "pybee.github.io": {
+        "default_branch": "lektor"
+    },
+    "colosseum": {
+        "default_branch": "master"
+    },
+    "briefcase": {
+        "default_branch": "master"
+    },
+    "beefore": {
+        "default_branch": "master"
+    },
+    "podium-template": {
+        "default_branch": "master"
+    },
+    "rubicon-objc": {
+        "default_branch": "master"
+    },
+    "beekeeper": {
+        "default_branch": "master"
+    },
+    "Python-Windows-template": {
+        "default_branch": "master"
+    },
+    "Python-Android-template": {
+        "default_branch": "master"
+    },
+    "comb": {
+        "default_branch": "master"
+    },
+    "duvet": {
+        "default_branch": "master"
+    },
+    "cricket": {
+        "default_branch": "master"
+    },
+    "slick": {
+        "default_branch": "master"
+    },
+    "briefcase-template": {
+        "default_branch": "master"
+    },
+    "podium": {
+        "default_branch": "master"
+    },
+    "waggle": {
+        "default_branch": "master"
+    },
+    "ouroboros": {
+        "default_branch": "master"
+    },
+    "Python-Django-template": {
+        "default_branch": "master"
+    },
+    "lektor-gravatar": {
+        "default_branch": "master"
+    },
+    "Python-macOS-template": {
+        "default_branch": "master"
+    },
+    "Python-iOS-template": {
+        "default_branch": "master"
+    },
+    "Python-Linux-template": {
+        "default_branch": "master"
+    }
+}
